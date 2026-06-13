@@ -1,4 +1,3 @@
-import React from "react";
 import { lazy } from "react";
 const Services = lazy(() => import("./Services"));
 const About = lazy(() => import("./About"));
